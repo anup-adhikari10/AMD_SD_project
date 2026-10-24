@@ -1,0 +1,65 @@
+Saved checkpoint at Epoch 01 | Val Mean Dice: 51.24% | Path: best_unet_baseline.pth
+Saved checkpoint at Epoch 02 | Val Mean Dice: 55.46% | Path: best_unet_baseline.pth
+Saved checkpoint at Epoch 05 | Val Mean Dice: 56.78% | Path: best_unet_baseline.pth
+Saved checkpoint at Epoch 07 | Val Mean Dice: 60.34% | Path: best_unet_baseline.pth
+Saved checkpoint at Epoch 08 | Val Mean Dice: 62.00% | Path: best_unet_baseline.pth
+Saved checkpoint at Epoch 11 | Val Mean Dice: 64.41% | Path: best_unet_baseline.pth
+Saved checkpoint at Epoch 17 | Val Mean Dice: 64.73% | Path: best_unet_baseline.pth
+Saved checkpoint at Epoch 18 | Val Mean Dice: 65.50% | Path: best_unet_baseline.pth
+Saved checkpoint at Epoch 20 | Val Mean Dice: 66.64% | Path: best_unet_baseline.pth
+Saved checkpoint at Epoch 24 | Val Mean Dice: 66.66% | Path: best_unet_baseline.pth
+Model1 | Epoch 01 | Val Mean Dice: 45.79% | Path: best_model1_dualhead.pth
+Model1 | Epoch 02 | Val Mean Dice: 55.66% | Path: best_model1_dualhead.pth
+Model1 | Epoch 01 | Val Mean Dice: 45.79% | Path: best_model1_dualhead.pth
+Model1 | Epoch 02 | Val Mean Dice: 55.66% | Path: best_model1_dualhead.pth
+Model1 | Epoch 07 | Val Mean Dice: 57.83% | Path: best_model1_dualhead.pth
+Model1 | Epoch 08 | Val Mean Dice: 60.90% | Path: best_model1_dualhead.pth
+Model1 | Epoch 09 | Val Mean Dice: 64.08% | Path: best_model1_dualhead.pth
+Model1 | Epoch 12 | Val Mean Dice: 64.87% | Path: best_model1_dualhead.pth
+Model1 | Epoch 14 | Val Mean Dice: 64.92% | Path: best_model1_dualhead.pth
+Model1 | Epoch 16 | Val Mean Dice: 65.06% | Path: best_model1_dualhead.pth
+Model1 | Epoch 18 | Val Mean Dice: 66.06% | Path: best_model1_dualhead.pth
+Model1 | Epoch 22 | Val Mean Dice: 66.87% | Path: best_model1_dualhead.pth
+Model1 | Epoch 23 | Val Mean Dice: 67.10% | Path: best_model1_dualhead.pth
+Model1 | Epoch 25 | Val Mean Dice: 67.26% | Path: best_model1_dualhead.pth
+Model1 | Epoch 01 | Val Mean Dice: 17.62% | Path: best_model1_dualhead.pth
+Model1 | Epoch 02 | Val Mean Dice: 49.64% | Path: best_model1_dualhead.pth
+Model1 | Epoch 03 | Val Mean Dice: 52.45% | Path: best_model1_dualhead.pth
+Model1 | Epoch 04 | Val Mean Dice: 58.80% | Path: best_model1_dualhead.pth
+Model1 | Epoch 05 | Val Mean Dice: 68.45% | Path: best_model1_dualhead.pth
+Model1 | Epoch 06 | Val Mean Dice: 73.72% | Path: best_model1_dualhead.pth
+Model1 | Epoch 08 | Val Mean Dice: 74.82% | Path: best_model1_dualhead.pth
+Model1 | Epoch 09 | Val Mean Dice: 75.58% | Path: best_model1_dualhead.pth
+Model1 | Epoch 10 | Val Mean Dice: 75.69% | Path: best_model1_dualhead.pth
+Model1 | Epoch 11 | Val Mean Dice: 76.19% | Path: best_model1_dualhead.pth
+Model1 | Epoch 13 | Val Mean Dice: 77.59% | Path: best_model1_dualhead.pth
+Model1 | Epoch 14 | Val Mean Dice: 78.34% | Path: best_model1_dualhead.pth
+Model4-pretrained | Epoch 01 | Val Mean Dice: 56.10% | Path: best_unet_model4_pretrained.pth
+Model4-pretrained | Epoch 02 | Val Mean Dice: 75.93% | Path: best_unet_model4_pretrained.pth
+Model4-pretrained | Epoch 07 | Val Mean Dice: 77.56% | Path: best_unet_model4_pretrained.pth
+Model4-pretrained | Epoch 08 | Val Mean Dice: 78.07% | Path: best_unet_model4_pretrained.pth
+Model4-pretrained | Epoch 09 | Val Mean Dice: 78.84% | Path: best_unet_model4_pretrained.pth
+Model4-pretrained | Epoch 10 | Val Mean Dice: 79.15% | Path: best_unet_model4_pretrained.pth
+Model4-pretrained | Epoch 12 | Val Mean Dice: 79.48% | Path: best_unet_model4_pretrained.pth
+Model5-msmamba_base | Epoch 01 | Val Mean Dice: 4.33% | Path: best_unet_model5_msmamba_base.pth
+Model5-msmamba_base | Epoch 02 | Val Mean Dice: 9.42% | Path: best_unet_model5_msmamba_base.pth
+Model5-msmamba_base | Epoch 03 | Val Mean Dice: 24.67% | Path: best_unet_model5_msmamba_base.pth
+Model5-msmamba_base | Epoch 04 | Val Mean Dice: 46.14% | Path: best_unet_model5_msmamba_base.pth
+Model5-msmamba_base | Epoch 05 | Val Mean Dice: 54.28% | Path: best_unet_model5_msmamba_base.pth
+Model5-msmamba_base | Epoch 07 | Val Mean Dice: 56.93% | Path: best_unet_model5_msmamba_base.pth
+Model5-msmamba_base | Epoch 08 | Val Mean Dice: 66.89% | Path: best_unet_model5_msmamba_base.pth
+Model5-msmamba_base | Epoch 09 | Val Mean Dice: 74.45% | Path: best_unet_model5_msmamba_base.pth
+Model5-msmamba_base | Epoch 11 | Val Mean Dice: 76.56% | Path: best_unet_model5_msmamba_base.pth
+Model5-msmamba_base | Epoch 13 | Val Mean Dice: 76.75% | Path: best_unet_model5_msmamba_base.pth
+Model5-msmamba_base | Epoch 19 | Val Mean Dice: 78.04% | Path: best_unet_model5_msmamba_base.pth
+Model5-msmamba_base | Epoch 23 | Val Mean Dice: 78.47% | Path: best_unet_model5_msmamba_base.pth
+Model5-msmamba_base | Epoch 24 | Val Mean Dice: 79.14% | Path: best_unet_model5_msmamba_base.pth
+Model5-msmamba_base | Epoch 28 | Val Mean Dice: 79.17% | Path: best_unet_model5_msmamba_base.pth
+Model5-msmamba_base | Epoch 31 | Val Mean Dice: 79.61% | Path: best_unet_model5_msmamba_base.pth
+Saved checkpoint at Epoch 01 | Val Mean Dice: 51.39% | Path: best_unet_baseline.pth
+Saved checkpoint at Epoch 02 | Val Mean Dice: 57.90% | Path: best_unet_baseline.pth
+Saved checkpoint at Epoch 07 | Val Mean Dice: 58.09% | Path: best_unet_baseline.pth
+Saved checkpoint at Epoch 09 | Val Mean Dice: 61.54% | Path: best_unet_baseline.pth
+Saved checkpoint at Epoch 10 | Val Mean Dice: 61.57% | Path: best_unet_baseline.pth
+Saved checkpoint at Epoch 12 | Val Mean Dice: 66.20% | Path: best_unet_baseline.pth
+Saved checkpoint at Epoch 14 | Val Mean Dice: 67.32% | Path: best_unet_baseline.pth
