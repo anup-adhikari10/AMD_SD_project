@@ -1,0 +1,15 @@
+\begin{tabular}{lcccccccc}
+\toprule
+\textbf{Model} & \textbf{Params (M)} & \textbf{Dice} & \textbf{IoU} & \textbf{SRF} & \textbf{IRF} & \textbf{PED} & \textbf{SHRM} & \textbf{IS/OS} \\
+\midrule
+AMD-SD U-Net (paper) & -- & 78.55 & 64.48 & 78.65 & 78.66 & 79.62 & 72.04 & 83.76 \\
+AMD-SD ResUNet (paper) & -- & 79.81 & 66.58 & 78.86 & 81.16 & 81.88 & 72.97 & 84.19 \\
+\midrule
+Baseline U-Net & 7.76 & 67.32 & 59.59 & 67.40 & 79.44 & 55.39 & 59.53 & 74.83 \\
+Model 1: dual-head U-Net & 7.79 & 67.26 & 59.47 & 65.86 & 79.19 & 58.54 & 57.79 & 74.94 \\
+Model 2: cascaded U-Nets & 62.07 & 79.06 & 65.51 & 78.57 & 77.87 & 81.22 & 73.63 & 84.03 \\
+Model 3: dual-decoder U-Net & 10.90 & 78.25 & 64.45 & 78.60 & 79.06 & 78.59 & 71.19 & 83.80 \\
+Model 4: TransUNet & 105.92 & 79.48 & 66.09 & \textbf{81.05} & 77.30 & \textbf{81.81} & \textbf{73.69} & 83.55 \\
+Model 5: state-space U-Net & 7.67 & \textbf{79.61} & \textbf{66.32} & 80.45 & \textbf{81.11} & 80.73 & 71.59 & \textbf{84.16} \\
+\bottomrule
+\end{tabular}
