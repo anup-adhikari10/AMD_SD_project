@@ -1,0 +1,15 @@
+{
+ "split": "val",
+ "high": [
+  "121_15_input.png",
+  "121_24_input.png"
+ ],
+ "mid": [
+  "106_20_input.png",
+  "122_6_input.png"
+ ],
+ "low": [
+  "120_11_input.png",
+  "104_6_input.png"
+ ]
+}

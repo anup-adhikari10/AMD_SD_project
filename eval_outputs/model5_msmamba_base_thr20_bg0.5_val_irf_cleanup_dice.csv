@@ -1,0 +1,7 @@
+Class,Dice | original GT / original pred,Dice | original GT / cleaned pred,Dice | cleaned GT / cleaned pred
+SRF,78.79,77.77,77.59
+IRF,36.91,56.04,53.74
+PED,78.37,77.3,77.29
+SHRM,70.72,70.45,69.51
+IS/OS,82.75,80.27,79.02
+Mean,69.51,72.36,71.43
